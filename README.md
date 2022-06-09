@@ -119,4 +119,4 @@ ___
 
 **RENDU DU TP :**
 
-Le TP devra être rendu sous la forme d'une archive zippée (.ZIP) contenant les sources (*i.e.* le code du projet) et les ressources (*e.g.* le fichier .FXML) de votre projet. Cette archive sera envoyée à l'adresse [*polytech.ihm.et3@gmail.com*](mailto:polytech.ihm.et3@gmail.com) avec le sujet "[TpNote#2] Prénom NOM".
+Le TP devra être rendu sous la forme d'une archive zippée (.ZIP) contenant les sources (*i.e.* le code du projet) et les ressources (*e.g.* le fichier .FXML) de votre projet. Cette archive sera à déposer sur e-campus.
