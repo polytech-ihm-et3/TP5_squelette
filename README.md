@@ -1,6 +1,6 @@
 Programmation Java @ Et3
 <br>
-Polytech Paris-Saclay | 2020-21
+Polytech Paris-Saclay | 2023-2024
 
 ___
 
@@ -122,5 +122,5 @@ ___
 Le TP devra être rendu sous la forme d'une archive zippée (.ZIP) contenant les sources (*i.e.* le code du projet) et les ressources (*e.g.* le fichier .FXML) de votre projet. Cette archive sera à déposer sur e-campus.
 
 ___
-** Ajout pour sujet 2023  **
+** Ajout depuis 2023  **
 Ajouter dans l'archive des captures d'écran au cas où ça ne se compilerait pas / s'exécuterait pas correctement sur l'ordi de l'examinateur
